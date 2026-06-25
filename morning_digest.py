@@ -23,13 +23,7 @@ JANANI_PROFILE = """Bioengineering graduate (Northeastern, 2021) with experience
 pharmaceutical R&D, life sciences consulting, and biotech business development and sales. 
 Grammy-nominated vocalist, dancer, producer, and independent artist with an organically 
 built audience of 425K+ followers and 40M+ views across social platforms, based in 
-Cambridge, MA. Building toward founding a science media company targeting health-literate 
-consumers — Gen Z women — at the intersection of scientific credibility and cultural fluency. 
-Gearing up to release her debut concept album inspired by Amitav Ghosh's The Living Mountain, 
-wanting to establish herself as a new-age indie music star and cultural tastemaker similar to 
-Rosalia, Eartheater, Sega Bodega, Charli XCX. Wants to launch her album alongside a consumer 
-product targeting female middle class consumers. Actively job searching in biotech, science 
-communications, and AI-adjacent roles, preferably remote. For each news story provide one 
+Cambridge, MA. For each news story provide one 
 specific actionable strategic move — companies to reach out to, content angles to develop, 
 album release timing insights, or AI tools to adopt."""
 
